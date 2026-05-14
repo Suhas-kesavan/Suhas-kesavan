@@ -32,8 +32,7 @@ I'm a final-year CS/IT student based in **Bengaluru, India**, passionate about b
 
 ## 📌 Featured Projects
 
-### 🔍 Federated Learning Simulation for IoT Edge Devices
-](https://github.com/Suhas-kesavan/Distributed-Machine-Learning-Model-Training-with-Edge-AI)
+### 🔍 [Federated Learning Simulation for IoT Edge Devices](https://github.com/Suhas-kesavan/Distributed-Machine-Learning-Model-Training-with-Edge-AI)
 
 > Simulated a privacy-preserving distributed ML system across IoT edge devices using Docker and the FLWR framework.
 
