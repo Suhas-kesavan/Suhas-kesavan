@@ -61,8 +61,8 @@ I'm a final-year CS/IT student based in **Bengaluru, India**, passionate about b
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suhas-kesavan&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhas-kesavan&layout=compact&theme=default&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=Suhas-kesavan&theme=default&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhas-kesavan&layout=compact&hide_border=true&langs_count=6" height="150"/>
 </p>
 
 ---
